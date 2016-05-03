@@ -21,6 +21,8 @@ public class Cliente {
     /**
      * @param args the command line arguments
      */
+    
+    jnjn
     public static void main(String[] args) throws NotBoundException {
         // TODO code application logic here
          try {
